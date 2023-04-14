@@ -1,4 +1,4 @@
-FROM amazoncorretto:9-alpine-jdk
+FROM amazoncorretto:11-jdk
 
 MAINTAINER SilvanaSuarez
 
