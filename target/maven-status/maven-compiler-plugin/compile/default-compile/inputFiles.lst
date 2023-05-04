@@ -1,46 +1,46 @@
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Security\Dto\LoginUsuario.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Security\jwt\JwtProvider.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Security\jwt\JwtEntryPoint.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Service\Seducacion.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\SuarezSApplication.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Dto\dtoSkills.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Controller\CExperiencia.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Controller\CProyectos.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Entity\Educacion.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Repository\RExperiencia.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Security\Controller\AuthController.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Interface\IPersonaService.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Security\Entity\Usuario.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Service\SSkills.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\WebConfing.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Controller\CSkills.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Repository\RProyectos.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Entity\Proyectos.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Controller\CEducacion.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Security\Repository\iUsuarioRepository.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Repository\REducacion.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Security\Dto\JwtDto.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Security\MainSecurity.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Service\ImpPersonaService.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Controller\PersonaController.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Repository\RSkills.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Security\Service\RolService.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Security\jwt\JwtTokenFilter.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Security\Service\UserDetailsImpl.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Entity\Persona.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Entity\Experiencia.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Entity\Skills.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Security\Repository\iRolRepository.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Service\SProyectos.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Security\Controller\Mensaje.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Dto\dtoExperiencia.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Service\SExperiencia.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Security\Entity\Rol.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Dto\dtoHys.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Repository\IPersonaRepository.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Dto\dtoProyectos.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Security\Entity\UsuarioPrincipal.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Security\Service\UsuarioService.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Dto\dtoEducacion.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Security\Enums\RolNombre.java
-C:\Users\usuario\Desktop\Portfolio - Ejemplo\BackEnd\src\main\java\com\portfolio\SuarezS\Security\Dto\NuevoUsuario.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Entity\Skills.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Interface\IPersonaService.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Security\Entity\Usuario.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Security\jwt\JwtTokenFilter.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Security\Service\RolService.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Controller\CExperiencia.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Security\Service\UserDetailsImpl.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Service\SSkills.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Controller\CSkills.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Repository\RExperiencia.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\WebConfing.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Security\Controller\AuthController.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Repository\IPersonaRepository.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Security\Dto\LoginUsuario.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Repository\REducacion.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Security\Dto\NuevoUsuario.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Dto\dtoHys.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Dto\dtoProyectos.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Service\SProyectos.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Entity\Experiencia.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Security\jwt\JwtProvider.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Service\Seducacion.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Entity\Educacion.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Service\ImpPersonaService.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Controller\CProyectos.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Entity\Proyectos.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Security\Entity\Rol.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Dto\dtoExperiencia.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Repository\RProyectos.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Security\Repository\iUsuarioRepository.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Security\Repository\iRolRepository.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Controller\CEducacion.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Security\MainSecurity.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Security\Entity\UsuarioPrincipal.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\SuarezSApplication.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Dto\dtoEducacion.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Controller\PersonaController.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Security\jwt\JwtEntryPoint.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Security\Dto\JwtDto.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Security\Enums\RolNombre.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Entity\Persona.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Repository\RSkills.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Service\SExperiencia.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Security\Controller\Mensaje.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Dto\dtoSkills.java
+C:\BackEnd_sss\src\main\java\com\portfolio\SuarezS\Security\Service\UsuarioService.java
